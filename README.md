@@ -2,10 +2,10 @@ Hi there, I'm Dallin Sly 👋
 About Me:
 I am an aspiring software engineer, dedicated father, and loving husband with a passion for technology and community service. As an Eagle Scout, I have a strong commitment to serving my community and fostering a positive impact wherever I go.
 
-For the past 5 years, I have worked as a truck driver, where I honed my discipline and problem-solving skills. Transitioning into tech, I have gained proficiency in a variety of technologies including HTML, CSS, JavaScript, React, Git, GitHub, Google Cloud, Figma, Webpack, MongoDB, and more.
+For the past 5 years, I have worked as a truck driver, where I honed my discipline and problem-solving skills. Transitioning into tech, I have gained proficiency in a variety of technologies including HTML, CSS, JavaScript, React, Node.js, Git, GitHub, Google Cloud, Figma, Webpack, MongoDB, and more.
 
 Skills:
-Languages: HTML, CSS, JavaScript
+Languages: HTML, CSS, JavaScript, node.js
 Frameworks/Libraries: React
 Version Control: Git, GitHub
 Cloud Platforms: Google Cloud
