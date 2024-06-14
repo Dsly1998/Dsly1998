@@ -28,3 +28,6 @@ I plan to work with my comunity to provide help to small and growing businesses!
 
 Let's Connect
 I am always open to new opportunities, collaborations, and learning experiences. Feel free to reach out if you'd like to connect!
+
+Personal Site:
+https://dallinsly.tech
