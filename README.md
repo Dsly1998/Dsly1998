@@ -30,4 +30,4 @@ Let's Connect
 I am always open to new opportunities, collaborations, and learning experiences. Feel free to reach out if you'd like to connect!
 
 Personal Site:
-https://dallinsly.tech
+https://dsly1998.github.io/personal_site/
