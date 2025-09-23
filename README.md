@@ -3,21 +3,13 @@
 I am a Full Stack Developer, dedicated father, and loving husband with a passion for technology and community service. As an Eagle Scout, I have a strong commitment to serving my community and fostering a positive impact wherever I go.
 
 ## Skills:
-
-### Languages: 
-HTML, CSS, JavaScript, Go, TypeScript
-### Frameworks/Libraries: 
-React, Express, Tailwind
-### Version Control: 
-Git, GitHub
-### Cloud Platforms: 
-Google Cloud, Render
-### Design Tools: 
-Figma, Adobe Photoshop
-### Databases:
-MongoDB, Postgresql
-### Other Technologies: 
-Webpack, Docker, Prisma, AI tools, Node.js
+**Languages:** HTML, CSS, JavaScript, Go, TypeScript  
+**Frameworks/Libraries:** React, Express, Tailwind  
+**Version Control:** Git, GitHub  
+**Cloud Platforms:** Google Cloud, Render  
+**Design Tools:** Figma, Adobe Photoshop  
+**Databases:** MongoDB, Postgresql  
+**Other Technologies:** Webpack, Docker, Prisma, AI tools, Node.js  
 
 ## Contact Me:
 📧 Email: krave83@gmail.com
