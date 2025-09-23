@@ -29,7 +29,7 @@ I am dedicated to continuous learning and personal growth, constantly striving t
 ## Education and Experience:
 Full Stack Developer, Software Engineer Tutor, TripleTen Bootcamp SE Certificate of Completion, JSA-41-01 Certificate
 
-## Let's Connect
+## Let's Connect:
 I am always open to new opportunities, collaborations, and learning experiences. Feel free to reach out if you'd like to connect!
 
 ## Personal Site:
