@@ -12,8 +12,8 @@ I am a Full Stack Developer, dedicated father, and loving husband with a passion
 **Other Technologies:** Webpack, Docker, Prisma, AI tools, Node.js  
 
 ## Contact Me:
-📧 Email: krave83@gmail.com
-💼 LinkedIn: https://linkedin.com/in/dallin-sly-software-engineer
+📧 **Email:** krave83@gmail.com  
+💼 **LinkedIn:** https://linkedin.com/in/dallin-sly-software-engineer
 
 ## Personal Traits:
 I am dedicated to continuous learning and personal growth, constantly striving to expand my knowledge and skills in the ever-evolving field of software engineering. My experience running triathlons reflects my disciplined approach and ability to thrive in challenging environments. I excel in self-teaching and am adept at quickly mastering new concepts and technologies.
