@@ -1,6 +1,6 @@
 # Hi there, I'm Dallin Sly 👋
 ## About Me:
-I am a Full Stack Developer, dedicated father, and loving husband with a passion for technology and community service. As an Eagle Scout, I have a strong commitment to serving my community and fostering a positive impact wherever I go.
+I am a Software Engineer, and dedicated father with a passion for technology and community service. As an Eagle Scout, I have a strong commitment to serving my community and fostering a positive impact wherever I go.
 
 ## Skills:
 **Languages:** HTML, CSS, JavaScript, Go, TypeScript  
